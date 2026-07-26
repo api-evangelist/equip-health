@@ -1,0 +1,35 @@
+# Equip Health
+
+> Equip Health is a virtual, evidence-based eating disorder treatment provider (founded 2019 by Kristina Saffran and Erin Parks) delivering 100% remote, insurance-covered care for all eating disorder diagnoses across the United States, with a five-person care team model (therapist, medical provider, dietitian, family mentor, peer mentor). Equip publishes no public developer API, SDK, or documentation program.
+
+## Company
+- [Website](https://equip.health/): Virtual eating disorder treatment for all diagnoses
+- [Company / About](https://equip.health/company): Mission, founders, and team
+- [Our Treatment](https://equip.health/our-treatment): Equip's evidence-based, virtual care model
+- [What We Treat](https://equip.health/what-we-treat): Conditions treated (anorexia, bulimia, BED, ARFID, OSFED, atypical anorexia)
+- [Outcomes](https://equip.health/outcomes): Published treatment outcomes and research
+- [Press](https://equip.health/press): News and media coverage
+
+## For Patients & Families
+- [Patient Portal (Login)](https://my.equip.health/login): Secure patient login
+- [Get Started](https://my.equip.health/): Book a consultation
+- [FAQs](https://equip.health/faqs): Common questions about Equip and treatment
+- [Levels of Care](https://equip.health/levels-of-care): Care intensity options
+- [Admissions Process](https://equip.health/admissions-process): How to begin treatment
+
+## For Providers & Partners
+- [Providers](https://equip.health/providers): For referring and clinical providers
+- [Partners](https://equip.health/partners): Health plan and clinical partnerships
+- [Referral Info](https://equip.health/referral-info): Refer a patient to Equip
+
+## Content
+- [Articles](https://equip.health/articles): Clinical and recovery article library
+- [Research](https://equip.health/research): Equip's clinical research
+- [Newsletter](https://equip.health/newsletter): Email newsletter sign-up
+
+## Legal & Security
+- [Security](https://equip.health/security): Security & compliance (SOC 2 Type I, HIPAA)
+- [Privacy Policy](https://equip.health/privacy-policy)
+- [Notice of Privacy Practices](https://equip.health/privacy-practices)
+- [Terms of Use](https://equip.health/terms-of-use)
+- [Good Faith Estimate](https://equip.health/good-faith-estimate)

@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://equip.health/security
+url: https://equip.health/security
+certifications:
+- SOC 2 Type I
+- HIPAA
+programs:
+- name: SOC 2 Type I
+  evidence: >-
+    "Equip Health, Inc successfully completed the AICPA Service Organization
+    Control (SOC) 2 Type I audit." (equip.health/security)
+- name: HIPAA
+  evidence: >-
+    Equip describes itself as HIPAA-compliant across its security page and site
+    footer.
+security_page_topics:
+- secure personnel
+- secure development
+- security testing
+- cloud security / data encryption
+contact:
+- hello@equip.health
+notes: >-
+  Audit report available on request via hello@equip.health. No public bug-bounty
+  or dedicated security@ vulnerability-disclosure address was found; no
+  /.well-known/security.txt is published (probed 404).
