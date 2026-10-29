@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Equip Health is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Equip Health is a virtual, evidence-based eating disorder treatment provider founded in 2019 by Kristina Saffran and Erin Parks. Equip delivers 100% remote, insurance-covered care for all eating disorder diagnoses — anorexia, bulimia, binge eating disorder (BED), ARFID, atypical anorexia, and OSFED — using Family-Based Treatment (FBT) and other evidence-based approaches. Every patient is matched with a five-person care team: a therapist, medical provider, dietitian, family mentor, and peer mentor. Equip serves patients across the United States with no waitlist, publishes an extensive library of clinical and recovery articles, partners with providers and health plans, and operates a patient portal at my.equip.health. This profile catalogs Equip's public web, legal, security, and content surfaces; Equip publishes no public developer API, SDK, or documentation program at this time.
 
-Backed by: general-catalyst
+**Areas:** Company · Healthcare · Digital Health · Telehealth · Mental Health · Eating Disorder Treatment · Virtual Care · Health Insurance
+
+## Equip Health on APIs.io
+
+Everything profiled for Equip Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/equip-health/](https://apis.io/providers/equip-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Equip Health Domain Security](https://apis.io/security/equip-health/equip-health-domain-security/)
+- [Equip Health Trust Center](https://apis.io/security/equip-health/equip-health-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://equip.health/)
+- [Support](https://equip.health/faqs)
+- [Blog](https://equip.health/articles)
+- [Compliance](https://equip.health/security)
+- [Terms of service](https://equip.health/terms-of-use)
+- [Privacy policy](https://equip.health/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 16.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 43.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/equip-health/](https://apis.io/providers/equip-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Equip Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/equip-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
